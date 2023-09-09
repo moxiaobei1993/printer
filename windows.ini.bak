@@ -1,0 +1,12 @@
+[config]
+pdfname = 直接选择.pdf
+ssh = 192.168.1.108:22
+username = root
+# passwd密码不保存
+# 打印份数
+number = 1
+# 设置打印机，1是brother，2是espon
+printer = 1
+# 1是双面打印，2是偶数页打印，3是奇数页打印
+setting = 1
+
